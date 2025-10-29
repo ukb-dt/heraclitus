@@ -1,8 +1,31 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
+
+
 **Preface**
 
 $E \rightarrow$ Thermodynamics            
 $m \rightarrow$ Mechanics         
-$c^2 \rightarrow$ Signaling           
+$c^2 \rightarrow$ Signaling 
+
+> *Possessor of resources, goods, services*       
+> -- Pyromancer
 
 Language, like matter, never holds still. Every word—every *token*—is a ripple in a continuous flow, the faint trace of energy seeking form. From token to *root*, the pulse finds grounding; from *root* to *infinitive*, it stretches into potential; through *conjugation*, it enters time, motion, and relation; and in the *possessive*, it reaches the threshold of self and other.
 
