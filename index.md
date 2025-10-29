@@ -26,7 +26,7 @@ $c^2 \rightarrow$ Signaling
 > *Possessor of resources, goods, services*          
 > *From whom power flows*            
 > *To whom fealty is proclaimed*             
-> — **Pyromancer**
+> — **[Pyromancer](https://ukb-dt.github.io/grit/)**
 
 <div>
   <iframe
