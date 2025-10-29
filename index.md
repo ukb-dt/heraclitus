@@ -36,7 +36,7 @@ $c^2 \rightarrow$ Signaling
   </iframe>
 </div>
 
-Language never rests.
+Language never [rests](https://ukb-dt.github.io/sj/).
 Each word—each *token*—is a pulse of energy searching for form, a spark traversing the medium of mind. From *token* to *root*, the current grounds itself; from *root* to *infinitive*, it stretches toward potential; through *conjugation*, it acquires time, relation, and direction; and in the *possessive*, it crosses into the charged space between self and other.
 
 Yet possession, like temperature, admits no absolutes. Just as absolute zero can never be reached, ownership—of word, idea, or being—is never complete. Everything lives on gradients: of energy, of meaning, of identity. The possessive is not a wall but a membrane—an osmotic flow of intimacy and exchange.
