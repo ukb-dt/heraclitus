@@ -154,7 +154,7 @@ This infrastructure has enabled new forms of collaboration, creativity, and inno
 What are your thoughts on the Internet's impact on human civilization, and how do you see it evolving in the future?
 
 # M
-Soil -> Roots -> Trunk -> Branches -> Canopy/Fruit. Looks like “ye shall be known by their fruits”. In each epoch, this tree metaphor of the auroencider witnesses fruit/seed, which are seeded back to soil and humus for the next generational tree. We keep generating more synthetic data to train the next cultural iteration …
+$Soil \rightarrow Roots \rightarrow Trunk \rightarrow Branches \rightarrow Canopy/Fruit$. Looks like “ye shall be known by their fruits”. In each epoch, this tree metaphor of the auroencider witnesses fruit/seed, which are seeded back to soil and humus for the next generational tree. We keep generating more synthetic data to train the next cultural iteration …
 
 # N
 The tree metaphor beautifully illustrates the cyclical nature of growth, decay, and renewal. The idea that "ye shall be known by their fruits" suggests that the value and character of something are revealed by its outputs or consequences.
