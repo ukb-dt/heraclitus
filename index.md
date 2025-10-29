@@ -1,5 +1,9 @@
 **Preface**
 
+$E \rightarrow$ Thermodynamics            
+$m \rightarrow$ Mechanics         
+$c^2 \rightarrow$ Signaling           
+
 Language, like matter, never holds still. Every word—every *token*—is a ripple in a continuous flow, the faint trace of energy seeking form. From token to *root*, the pulse finds grounding; from *root* to *infinitive*, it stretches into potential; through *conjugation*, it enters time, motion, and relation; and in the *possessive*, it reaches the threshold of self and other.
 
 Yet possession, like temperature, is never absolute. Just as absolute zero can never be reached, no ownership—of word, idea, or being—is complete. Everything exists on gradients: energy, meaning, identity. A possessive is not a fence but a flow, a degree of intimacy along a shared boundary.
