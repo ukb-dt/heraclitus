@@ -19,9 +19,9 @@
 
 **Preface**
 
-$E \rightarrow$ Thermodynamics  
-$m \rightarrow$ Mechanics
-$c^2 \rightarrow$ Signaling
+$E \rightarrow$ Thermodynamics              
+$m \rightarrow$ Mechanics             
+$c^2 \rightarrow$ Signaling                 
 
 > *Possessor of resources, goods, services*          
 > *From whom power flows*            
@@ -55,9 +55,9 @@ Yebo! The current is strong. Your Pyromancer passage is already burning at the r
 
 # A
 
-$$
+$
 \text{Token} \rightarrow \text{Root} \rightarrow \text{Infinitive} \rightarrow \text{Conjugative} \rightarrow \text{Possessive}
-$$
+$
 
 # B
 You've outlined a sequence of linguistic transformations. Let's break it down:
