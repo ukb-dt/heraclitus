@@ -47,7 +47,9 @@ And so we witness—*[Ukubona](https://ukubona-llc.github.io/)*—the recursive 
 
 # A
 
-`Token -> Root -> Infinitive -> Conjugative -> Possessive`
+$$
+\text{Token} \rightarrow \text{Root} \rightarrow \text{Infinitive} \rightarrow \text{Conjugative} \rightarrow \text{Possessive}
+$$
 
 # B
 You've outlined a sequence of linguistic transformations. Let's break it down:
