@@ -23,7 +23,7 @@ $E \rightarrow$ Thermodynamics
 $m \rightarrow$ Mechanics             
 $c^2 \rightarrow$ Signaling                 
 
-> *Possessor of [resources](https://github.com/ukb-dt/uber), goods, [services](https://ukb-dt.github.io/cuda/)*          
+> *Possessor of [resources](https://ukb-dt.github.io/uber/), goods, [services](https://ukb-dt.github.io/cuda/)*          
 > *From whom power flows*            
 > *To whom fealty is proclaimed*             
 > — **[Pyromancer](https://ukb-dt.github.io/grit/)**
