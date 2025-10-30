@@ -24,7 +24,7 @@ $m \rightarrow$ Mechanics
 $c^2 \rightarrow$ Signaling                 
 
 > *Possessor of [resources](https://ukb-dt.github.io/uber/), goods, [services](https://ukb-dt.github.io/cuda/)*          
-> *From whom power flows*            
+> *From whom power [flows](https://ukb-dt.github.io/no/)*            
 > *To whom fealty is [proclaimed](https://ukb-dt.github.io/amgod-dogma/)*             
 > — **[Pyromancer](https://ukb-dt.github.io/grit/)**
 
